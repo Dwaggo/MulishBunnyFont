@@ -379,7 +379,7 @@
     "SourceCodePro-Semibold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-SemiBold.ttf?raw=1"
   },
   "background": {
-    "url": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/vw_wallpapers_1768564324084.png",
+    "url": "https://raw.githubusercontent.com/Dwaggo/MulishBunnyFont/refs/heads/main/vw_wallpapers_1768564324084.png",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
